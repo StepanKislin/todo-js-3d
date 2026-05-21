@@ -46,13 +46,6 @@
 - **CSS3** - анимации и адаптивный дизайн
 - **localStorage** - хранение данных
 - **HTML5** - семантическая разметка
-
-## 👤 Автор
-
-**Кислин Степан**  
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram)](https://t.me/stepankislinlime)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/stepankislin)
-
 ## 📜 Лицензия
 
 Проект распространяется под лицензией MIT.
