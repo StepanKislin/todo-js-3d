@@ -1,4 +1,4 @@
-# 🌀 3D TODO List
+# 3D TODO List
 
 ![3D TODO List Preview](https://via.placeholder.com/800x400/1e1b4b/ffffff?text=3D+Minimalist+TODO+App)
 
